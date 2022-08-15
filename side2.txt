@@ -44,7 +44,7 @@ YES - Current YES - Other Publicly- Owned Pending Project Not Used in Prior Hous
 YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 11 11
 YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 3 3
 YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 7 7
-YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 44 West Downtown Specific Plan
+YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 4 4 West Downtown Specific Plan
 YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 12 12
 YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 0 0
 YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 0 0 3 3
@@ -536,7 +536,7 @@ YES - Current NO - Privately- Owned Available Not Used in Prior Housing Element 
 YES - Current NO - Privately- Owned Available Not Used in Prior Housing Element 0 0 0 0
 YES - Current NO - Privately- Owned Available Not Used in Prior Housing Element 0 0 2 2
 YES - Current NO - Privately- Owned Available Not Used in Prior Housing Element 0 0 3 3
-YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 6 0 06 Max Density for current zoning is 0, but there is a proposed project for the site.
+YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 6 0 0 6 Max Density for current zoning is 0, but there is a proposed project for the site.
 YES - Current NO - Privately- Owned Pending Project Not Used in Prior Housing Element 11 0 83 94
 YES - Current NO - Privately- Owned Available Not Used in Prior Housing Element 0 0 12 12
 YES - Current NO - Privately- Owned Available Not Used in Prior Housing Element 0 0 0 0
