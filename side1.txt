@@ -1,0 +1,257 @@
+WALNUT CREEK 1 2800 Mitchell Drive 94598 143-040-103-2 BP, Business Park P-D 0 0 9.49 Industrial
+WALNUT CREEK 2 1910, 1940-1950 N Main St 94596 178-411-017-1 MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0.97 Residential
+WALNUT CREEK 3 1556 Mt Diablo Blvd 94596 178-230-028-7 A PR, Pedestrian Retail P-R 0 0 0.76 Retail Sales
+WALNUT CREEK 3 1532 Mt Diablo Blvd 94596 178-230-029-5 A PR, Pedestrian Retail P-R 0 0 0 Automotive Uses
+WALNUT CREEK 4 1665 Carmel Dr 94596 178-290-008-6 MFVH, Multifamily Very High M-1 0 43.56 0.27 Vacant
+WALNUT CREEK 5 1380 North California 94596 178-160-028-1 PR, Pedestrian Retail P-R 0 0 0.67 Residential
+WALNUT CREEK 6 699 Ygnacio Valley Rd 94596 178-402-003-2 MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.87 Automotive Uses
+WALNUT CREEK 7 1250 Las Juntas Way 94598 148-180-050-4 B MFL, Multifamily Low M-3 0 14.52 1.91 Vacant
+WALNUT CREEK 7 1250 Las Juntas Way 94598 148-180-051-2 B MFL, Multifamily Low M-3 0 14.52 0 Vacant
+WALNUT CREEK 7 1250 Las Juntas Way 94598 148-180-052-0 B MFL, Multifamily Low M-3 0 14.52 0 Vacant
+WALNUT CREEK 8 1394 Walden Rd 94597 172-130-015-8 C MFM, Multifamily Medium M-2.5 0 17.42 0.43 Residential, 1
+WALNUT CREEK 8 1394 Walden Rd 94596 172-130-016-6 C MFM, Multifamily Medium M-2.5 0 17.42 0.08 Vacant
+WALNUT CREEK 9 1501 N California Blvd 94596 178-140-001-3 D MU-D, Mixed Use-Downtown MU-D 0 58.1 0.42 Office
+WALNUT CREEK 9 1501 N California Blvd 94596 178-140-006-2 D MU-D, Mixed Use-Downtown MU-D 0 58.1 0.16 Retail Sales
+WALNUT CREEK 10 200 Ygnacio Valley Rd 94596 174-180-008-8 MU-R, Mixed Use-Residential Emphasis P-D 0 58.1 3.56 Parking Lot
+WALNUT CREEK 11 200 Ygnacio Valley Rd 94596 174-180-009-6 MU-R, Mixed Use-Residential Emphasis P-D 0 58.1 3.85 Parking Lot
+WALNUT CREEK 12 1487, 1493, 1500 Carmel Dr 94596 178-261-033-9 MFVH, Multifamily Very High P-D 0 43.56 0.15 Residential, 6
+WALNUT CREEK 13 1229 Lincoln Ave 94596 178-261-002-4 MFVH, Multifamily Very High M-1 0 43.56 0.18 Vacant
+WALNUT CREEK 14 1835 Weaver Lane 94598 145-042-012-8 SFM, Single-family Medium P-D 0 4.4 1.9 Residential
+WALNUT CREEK 15 1524 Oakland Blvd 94596 178-010-036-6 MFM, Multifamily Medium P-D 0 29.04 0.27 Vacant
+WALNUT CREEK 16 2680 Walnut Blvd 94596 179-030-001-4 E SFM, Single-family Medium R-10 0 4.4 1.53 Residential, 1
+WALNUT CREEK 16 2670 Walnut Blvd 94596 179-030-002-2 E SFM, Single-family Medium R-10 0 4.4 0 Residential, 1
+WALNUT CREEK 17 50 Garron Ct 94596 182-010-022-8 F SFL, Single-family Low R-20 0 2.2 2.19 Residential, 1
+WALNUT CREEK 17 50 Garron Ct 94596 182-010-031-9 F SFL, Single-family Low R-20 0 2.2 0.63 Vacant
+WALNUT CREEK 18 2211 N Main St 94596 174-150-044-9 MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0.45 Vacant
+WALNUT CREEK 19 1072 Ygnacio Valley Rd 94598 173-172-021-3 MFM, Multifamily Medium M-2 0 21.78 0.34 Vacant
+WALNUT CREEK 20 Oakland Blvd 94596 178-010-006-9 MFD, Multifamily Downtown M-0.75 0 58.08 0.48 Vacant
+WALNUT CREEK 21 1224 Lincoln Ave 94596 178-290-001-1 G MFVH, Multifamily Very High M-1 0 43.56 0.93 Office
+WALNUT CREEK 21 1611 Carmel Dr 94596 178-290-002-9 G MFVH, Multifamily Very High M-1 0 43.56 0 Residential, 2
+WALNUT CREEK 21 1615 Carmel Dr 94596 178-290-003-7 G MFVH, Multifamily Very High M-1 0 43.56 0 Residential, 1
+WALNUT CREEK 21 1617 Carmel Dr 94596 178-290-004-5 G MFVH, Multifamily Very High M-1 0 43.56 0 Residential, 1
+WALNUT CREEK 21 1619 Carmel Dr 94596 178-290-005-2 G MFVH, Multifamily Very High M-1 0 43.56 0 Vacant
+WALNUT CREEK 21 1619 Carmel Dr 94596 178-290-006-0 G MFVH, Multifamily Very High M-1 0 43.56 0 Residential, 2
+WALNUT CREEK 22 1537 Sunnyvale Ave 94597 170-280-005-1 MFMH, Multifamily Medium High M-1.5 0 29.04 0.42 Vacant
+WALNUT CREEK 23 1081 Scots Ln 94596 180-210-034-5 SFL, Single-family Low R-15 0 2.9 0.59 Vacant
+WALNUT CREEK 24 416 Oakvale Ct 94597 177-231-032-0 SFL, Single-family Low R-15 0 2.9 0.51 Vacant
+WALNUT CREEK 25 15 Holcomb Ct 94596 183-270-006-4 MFM, Multifamily Medium M-2 0 21.78 0.55 Vacant
+WALNUT CREEK 26 132 Lancaster Rd 94595 184-402-004-8 SFM, Single-family Medium R-8 0 5.4 0.46 Vacant
+WALNUT CREEK 27 1690 2nd Ave 94597 171-100-040-4 SFM, Single-family Medium R-8 0 5.4 0.37 Vacant
+WALNUT CREEK 28 186 Wootten Dr 94597 174-021-009-9 SFM, Single-family Medium R-8 0 5.4 0.57 Vacant
+WALNUT CREEK 29 1032 Millbrook Ct 94598 139-025-021-3 SFM, Single-family Medium R-10 0 4.4 0.43 Vacant
+WALNUT CREEK 30 Hacienda Dr 94598 179-100-011-8 SFM, Single-family Medium R-10 0 4.4 0.29 Vacant
+WALNUT CREEK 31 1860 San Miguel Dr 94596 180-020-008-9 H MFL, Multifamily Low M-3 0 14.52 0.62 Vacant
+WALNUT CREEK 31 1862 San Miguel Dr 94596 180-020-009-7 H MFL, Multifamily Low M-3 0 14.52 0 Vacant
+WALNUT CREEK 32 2123 Walnut Blvd 94597 173-030-033-0 SFL, Single-family Low R-20 0 2.2 0.56 Vacant
+WALNUT CREEK 33 2109 Overlook Dr 94597 174-210-043-9 MFL, Multifamily Low M-3 0 14.52 0.2 Vacant
+WALNUT CREEK 34 1611 Orchard Ln 94595 184-370-034-3 SFL, Single-family Low R-20 0 2.2 0.55 Vacant
+WALNUT CREEK 35 1388 Walden Rd 94597 172-130-014-1 MFM, Multifamily Medium M-2.5 0 17.42 0.27 Residential, 1
+WALNUT CREEK 36 1380 Walden Rd 94597 172-130-053-9 MFM, Multifamily Medium M-2.5 0 17.42 0.33 Residential, 1
+WALNUT CREEK 37 1374 Walden Rd 94597 172-130-054-7 MFM, Multifamily Medium M-2.5 0 17.42 0.49 Residential, 1
+WALNUT CREEK 38 1408 Walden Rd 94597 172-130-017-4 MFM, Multifamily Medium M-2.5 0 17.42 0.42 Residential, 1
+WALNUT CREEK 39 81 Shady Ln 94597 172-130-018-2 MFM, Multifamily Medium M-2.5 0 17.42 0.27 Residential, 1
+WALNUT CREEK 40 71 Shady Ln 94597 172-130-019-0 MFM, Multifamily Medium M-2.5 0 17.42 0.26 Residential, 1
+WALNUT CREEK 41 61 Shady Ln 94597 172-130-020-8 MFM, Multifamily Medium M-2.5 0 17.42 0.25 Residential, 1
+WALNUT CREEK 42 51 Shady Ln 94597 172-130-021-6 MFM, Multifamily Medium M-2.5 0 17.42 0.25 Residential, 1
+WALNUT CREEK 43 1424 Walden Rd 94597 172-130-049-7 MFM, Multifamily Medium M-2.5 0 17.42 0.35 Residential, 1
+WALNUT CREEK 44 1412 Walden Rd 94597 172-130-069-5 MFM, Multifamily Medium M-2.5 0 17.42 0.46 Residential, 1
+WALNUT CREEK 45 1620 Riviera Avenue 94596 174-140-014-5 I MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0.54 Residential
+WALNUT CREEK 45 1630 Riviera Avenue 94596 174-140-015-2 I MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Residential, 1
+WALNUT CREEK 45 1638 Riviera Avenue 94596 174-140-016-0 I MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Residential, 1
+WALNUT CREEK 46 1700 Riviera Avenue 94596 174-140-018-6 MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0.29 Residential, 5
+WALNUT CREEK 47 2221 N Main Street 94596 174-150-009-2 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 2.08 Retail Sales
+WALNUT CREEK 47 2225 N Main Street 94596 174-150-010-0 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Retail Sales
+WALNUT CREEK 47 2255 N Main Street 94596 174-150-013-4 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Automotive Uses
+WALNUT CREEK 47 2263 N Main Street 94596 174-150-014-2 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Office
+WALNUT CREEK 47 Adjacent to 2241 N Main Street 94596 174-150-041-5 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Parking Lot
+WALNUT CREEK 47 2235 N Main Street 94596 174-150-046-4 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Retail Sales
+WALNUT CREEK 47 2241 N Main Street 94596 174-150-047-2 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Retail Sales
+WALNUT CREEK 47 2295 N Main Street 94596 174-150-052-2 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Restaurant
+WALNUT CREEK 47 2329 N Main Street 94596 174-150-073-8 J MU-GT, Mixed Use-Golden Triangle MU-PD 0 40 0 Automotive Uses
+WALNUT CREEK 48 2082-2084 Mt. Diablo Blvd 94596 178-020-006-7 K MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 3.4 Retail Sales
+WALNUT CREEK 48 2074-2076 Mt. Diablo Blvd 94596 178-020-009-1 K MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 48 2086-2094 Mt. Diablo Blvd 94596 178-020-011-7 K MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 48 1220 Oakland Blvd 94596 178-020-002-6 K MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Office
+WALNUT CREEK 48 2098 Mt Diablo Blvd 94596 178-020-008-3 K MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Automotive Uses
+WALNUT CREEK 48 2044-2066 Mt. Diablo Blvd 94596 178-030-006-5 K MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 49 2042 Mt. Diablo Blvd 94596 178-030-003-2 L MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 1.48 Retail Sales
+WALNUT CREEK 49 2008-2040 Mt. Diablo Blvd 94596 178-030-004-0 L MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Automotive Uses
+WALNUT CREEK 50 1832 Sharp Ave 94596 178-040-018-8 M MFD, Multifamily Downtown M-0.75 0 58.08 4.45 Residential, 1
+WALNUT CREEK 50 1842 Sharp Ave 94596 178-040-019-6 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 1852 Sharp Ave 94596 178-040-020-4 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 1860 Sharp Ave 94596 178-040-021-2 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 1914 Sharp Ave 94596 178-040-022-0 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 1920 Sharp Ave 94596 178-040-023-8 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 1928 Sharp Ave 94596 178-040-024-6 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 Sharp Ave (no address) 94596 178-040-025-3 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Vacant
+WALNUT CREEK 50 1925 Sharp Ave 94596 178-040-062-6 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Vacant
+WALNUT CREEK 50 1919 Sharp Ave 94596 178-040-027-9 M MFD, Multifamily Downtown M-1 0 43.56 0 Residential, 1
+WALNUT CREEK 50 1909-1911 Sharp Ave 94596 178-040-028-7 M MFD, Multifamily Downtown M-1 0 43.56 0 Residential, 2
+WALNUT CREEK 50 1859 Sharp Ave 94596 178-040-029-5 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 1825 Sharp Ave 94596 178-040-030-3 M MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 50 1809 Sharp Ave 94596 178-040-031-1 M MFD, Multifamily Downtown M-1 0 43.56 0 Residential, 1
+WALNUT CREEK 50 1801-1805 Sharp Ave 94596 178-040-032-9 M MFD, Multifamily Downtown M-1 0 43.56 0 Residential, 2
+WALNUT CREEK 50 1921 Sharp Ave 94596 178-040-063-4 M MFD, Multifamily Downtown M-1 0 43.56 0 Vacant
+WALNUT CREEK 50 1960 Mt. Diablo Blvd. 94596 178-030-005-7 M MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 50 1948-1950 Mt. Diablo Blvd. 94596 178-040-036-0 M MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 50 1952-1954 Mt. Diablo Blvd. 94596 178-040-037-8 M MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Office
+WALNUT CREEK 50 1936-1946 Mt. Diablo Blvd. 94596 178-040-066-7 M MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 51 1859 Lacassie Ave 94596 178-080-030-4 MFD, Multifamily Downtown M-0.75 0 58.08 0.45 Church
+WALNUT CREEK 52 1801 Lacassie Ave 94596 178-080-075-9 MFD, Multifamily Downtown M-0.75 0 58.08 5.2 Church
+WALNUT CREEK 53 1920-1930 Mt. Diablo Blvd. 94596 178-040-060-0 N MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 1.66 Retail Sales
+WALNUT CREEK 53 1902 Mt. Diablo Blvd. 94596 178-040-079-0 N MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 54 Arroyo Way 94596 178-411-011-4 O MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 1.44 Parking Lot
+WALNUT CREEK 54 1410 Arroyo Way 94596 178-411-013-0 O MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Automotive Uses
+WALNUT CREEK 55 1980 N. Main St 94596 178-411-020-5 MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0.34 Automotive Uses
+WALNUT CREEK 56 31-45 Quail Ct 94596 183-050-021-9 MU-C, Mixed Use-Commercial Emphasis P-D 0 43.56 5.03 Office
+WALNUT CREEK 57 1275 Newell Ave 94595 183-260-027-2 MFMH, Multifamily Medium High M-1.5 0 29.04 5.25 Parking Lot
+WALNUT CREEK 58 2005 Mt. Diablo Blvd 94596 184-041-047-4 P MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 1.02 Office
+WALNUT CREEK 58 1111 Alpine Ave 94596 184-041-002-9 P MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 58 1119 Alpine Ave 94596 184-041-003-7 P MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Automotive Uses
+WALNUT CREEK 58 1147 Alpine Ave 94596 184-041-004-5 P MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Retail Sales
+WALNUT CREEK 58 1149 Alpine Ave 94596 184-041-005-2 P MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Retail Sales
+WALNUT CREEK 58 1155 Alpine Ave 94596 184-041-006-0 P MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 58 1161 Alpine Ave 94596 184-041-007-8 P MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Residential, 1
+WALNUT CREEK 59 Mt Diablo Blvd 94596 184-041-016-9 MU-D, Mixed Use-Downtown MU-D 0 58.1 1.93 Church
+WALNUT CREEK 60 2027 Mt. Diablo Blvd 94596 184-041-019-3 Q MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0.41 Retail Sales
+WALNUT CREEK 60 2021 Mt. Diablo Blvd 94596 184-041-020-1 Q MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Office
+WALNUT CREEK 61 1919 Mt. Diablo Blvd 94596 184-050-010-0 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 2.37 Retail Sales
+WALNUT CREEK 61 1909 Mt. Diablo Blvd 94596 184-050-011-8 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 61 1909 Mt. Diablo Blvd 94596 184-050-012-6 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Parking Lot
+WALNUT CREEK 61 1889 Mt. Diablo Blvd 94596 184-050-013-4 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Parking Lot
+WALNUT CREEK 61 1889 Mt. Diablo Blvd 94596 184-050-014-2 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 61 1849 Mt. Diablo Blvd 94596 184-050-015-9 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Automotive Uses
+WALNUT CREEK 61 1829 Mt. Diablo Blvd 94596 184-050-016-7 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 61 1929 Mt. Diablo Blvd 94596 184-050-062-1 R MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Office
+WALNUT CREEK 61 1160 Alpine Ave 94596 184-050-068-8 R MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 61 1148-1152 Alpine Ave 94596 184-050-069-6 R MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 62 1815 Mt. Diablo Blvd 94596 184-050-058-9 S MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 2.15 Office
+WALNUT CREEK 62 1813 Mt. Diablo Blvd 94596 184-050-059-7 S MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 62 1821 Mt. Diablo Blvd 94596 184-050-060-5 S MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Office
+WALNUT CREEK 62 1101-1105 S. California Blvd 94596 184-050-065-4 S MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 63 1123 S. California Blvd 94596 184-050-066-2 MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 3.6 Retail Sales
+WALNUT CREEK 64 1870 Olympic Blvd 94596 184-050-063-9 T MU-D, Mixed Use-Downtown MU-D 0 58.1 1.62 Office
+WALNUT CREEK 64 1900 Olympic Blvd 94596 184-050-070-4 T MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 64 1248 Alpine Rd 94596 184-050-002-7 T MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Residential, 5
+WALNUT CREEK 64 1238 Alpine Rd 94596 184-050-003-5 T MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Residential, 4
+WALNUT CREEK 64 1208 Alpine Rd 94596 184-050-004-3 T MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Residential, 4
+WALNUT CREEK 65 1295 S. Main St 94596 184-070-011-4 MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 2.98 Retail Sales
+WALNUT CREEK 66 1550 Newell Ave 94596 184-070-016-3 U MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 1.8 Retail Sales
+WALNUT CREEK 66 1536 Newell Ave 94596 184-070-017-1 U MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 67 1531-1599 Botelho Dr, 1320- 1330 S. California Blvd 94596 184-070-023-9 MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 2.52 Shopping Centers
+WALNUT CREEK 68 1372-1388 S. California Blvd 94596 184-070-024-7 MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 2.14 Retail Sales
+WALNUT CREEK 69 1355 S. California Blvd 94596 184-080-018-7 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 3.94 Retail Sales
+WALNUT CREEK 69 1387 S California Blvd 94596 184-080-019-5 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Automotive Uses
+WALNUT CREEK 69 1375 S. California Blvd, 1387 S. California Blvd 94596 184-080-020-3 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 69 1313 S. California Blvd 94596 184-080-023-7 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 69 1301 S. California Blvd, 1601 Botelho Dr, 1661-1667 Botelho Dr 94596 184-080-032-8 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 69 1651 Botelho Dr 94596 184-080-034-4 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 69 1661-1667 Botelho Dr 94596 184-080-035-1 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Retail Sales
+WALNUT CREEK 69 130 Petticoat Ln 94596 184-080-036-9 V MU-C, Mixed Use-Commercial Emphasis MU-C 0 58.08 0 Medical/Dental/Labs
+WALNUT CREEK 70 1766 Locust St 94596 178-210-007-5 W MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 2.77 Retail Sales
+WALNUT CREEK 70 1551 Lacassie Ave 94596 178-210-008-3 W MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Automotive Uses
+WALNUT CREEK 70 1785 N Main St 94596 178-210-010-9 W MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Automotive Uses
+WALNUT CREEK 70 1707 N Main St 94596 178-210-012-5 W MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Automotive Uses
+WALNUT CREEK 71 1816 N Main St 94596 178-320-001-5 X MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 2 Automotive Uses
+WALNUT CREEK 71 Main St & Lacassie Ave 94596 178-320-002-3 X MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Automotive Uses
+WALNUT CREEK 71 1800 N Main St 94596 178-320-014-8 X MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Automotive Uses
+WALNUT CREEK 71 1770 N Main St 94596 178-320-021-3 X MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Automotive Uses
+WALNUT CREEK 71 1750 N Main St 94596 178-320-013-0 X MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Automotive Uses
+WALNUT CREEK 72 1735 N Broadway 94596 178-320-006-4 Y MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 1.58 Bank
+WALNUT CREEK 72 1743 N Broadway 94596 178-320-007-2 Y MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Parking Lot
+WALNUT CREEK 72 1413 Carlback Ave 94596 178-320-012-2 Y MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Automotive Uses
+WALNUT CREEK 72 1799 N Broadway 94596 178-320-020-5 Y MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Restaurant
+WALNUT CREEK 73 Arroyo Way 94596 178-330-001-3 Z MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 1.98 Automotive Uses
+WALNUT CREEK 73 East of Main St & Arroyo Way 94596 178-330-004-7 Z MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Automotive Uses
+WALNUT CREEK 73 1890 N Main St 94596 178-330-007-0 Z MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Automotive Uses
+WALNUT CREEK 74 1401 Arroyo Way 94596 178-340-001-1 AA MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 1.96 Automotive Uses
+WALNUT CREEK 74 1375 Arroyo Way 94596 178-340-002-9 AA MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 74 1400 Carlback Ave 94596 178-340-014-4 AA MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Automotive Uses
+WALNUT CREEK 74 Southwest corner of Arroyo Way and Broadway 94596 178-340-017-7 AA MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Vacant
+WALNUT CREEK 75 577-581 Ygnacio Valley Rd 94596 178-411-007-2 AB MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.47 Office
+WALNUT CREEK 75 587 Ygnacio Valley Rd 94596 178-411-008-0 AB MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Office
+WALNUT CREEK 75 1991 N Broadway 94596 178-411-009-8 AB MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Office
+WALNUT CREEK 76 N Broadway 94596 178-412-010-5 AC MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 1.63 Parking Lot
+WALNUT CREEK 76 1910 N Broadway 94596 178-412-011-3 AC MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Office
+WALNUT CREEK 76 Southeast of Ygnacio Valley Rd & Broadway 94596 178-412-012-1 AC MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Parking Lot
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-013-1 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0.37 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-001-6 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-002-4 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-003-2 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-004-0 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-005-7 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-006-5 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-007-3 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-008-1 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-009-9 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-010-7 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-011-5 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 77 1430 Arroyo Way 94596 178-550-012-3 AD MU-R, Mixed Use-Residential Emphasis MU-R 0 102.49 0 Residential
+WALNUT CREEK 78 1756 Lacassie Ave 94596 174-220-002-3 AE MU-D, Mixed Use-Downtown MU-D 0 58.1 1.93 Office
+WALNUT CREEK 78 1801 N California Blvd 94596 174-220-033-8 AE MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 78 Southwest corner of Ygnacio Valley Rd & California Blvd 94596 174-220-034-6 AE MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Automotive Uses
+WALNUT CREEK 78 245 Ygnacio Valley Rd 94596 174-220-039-5 AE MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 78 265 Ygnacio Valley Rd 94596 174-220-041-1 AE MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Automotive Uses
+WALNUT CREEK 78 255 Ygnacio Valley Rd 94596 174-220-043-7 AE MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 78 1766 Lacassie Ave 94596 174-220-045-2 AE MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 79 1443-1515 Oakland Blvd 94596 177-260-023-3 MU-D, Mixed Use-Downtown MU-D 0 58.1 0.76 Office
+WALNUT CREEK 80 1415 Oakland Blvd 94596 177-280-014-8 MU-D, Mixed Use-Downtown MU-D 0 58.1 0.69 Office
+WALNUT CREEK 81 1407 Oakland Blvd 94596 177-280-018-9 AF MU-D, Mixed Use-Downtown MU-D 0 58.1 0.82 Office
+WALNUT CREEK 81 1371 Oakland Blvd 94596 177-280-017-1 AF MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 82 1420 Oakland Blvd 94596 178-010-015-0 MFMH, Multifamily Medium High M-1.5 0 29.04 0.14 Residential, 2
+WALNUT CREEK 83 1428 Oakland Blvd 94596 178-010-016-8 MFMH, Multifamily Medium High M-1.5 0 29.04 0.23 Residential, 2
+WALNUT CREEK 84 1973-1977 Dora Ave 94596 178-010-028-3 MFMH, Multifamily Medium High M-1.5 0 29.04 0.14 Residential, 1
+WALNUT CREEK 85 1502 Oakland Blvd 94596 178-010-020-0 MFMH, Multifamily Medium High M-1.5 0 29.04 0.09 Residential, 1
+WALNUT CREEK 86 1806 Bonanza St 94596 178-040-001-4 MU-D, Mixed Use-Downtown MU-D 0 58.1 0.27 Office
+WALNUT CREEK 87 1944 Trinity Ave 94596 178-071-002-4 MFD, Multifamily Downtown M-0.75 0 58.08 0.16 Residential, 1
+WALNUT CREEK 88 1963 Trinity Ave 94596 178-072-006-4 MFD, Multifamily Downtown M-0.75 0 58.08 0.27 Residential, 7
+WALNUT CREEK 89 Trinity Ave 94596 178-072-009-8 MFD, Multifamily Downtown M-0.75 0 58.08 1.06 Church
+WALNUT CREEK 90 1755 Cole Ave 94596 178-080-007-2 MFD, Multifamily Downtown M-0.75 0 58.08 0.2 Residential, 3
+WALNUT CREEK 91 10 Lacassie Ct 94596 178-080-038-7 AG MFD, Multifamily Downtown M-0.75 0 58.08 0.41 Residential, 1
+WALNUT CREEK 91 20 Lacassie Ct 94596 178-080-022-1 AG MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 91 30 Lacassie Ct 94596 178-080-023-9 AG MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 92 31 Lacassie Ct 94596 178-080-024-7 AH MFD, Multifamily Downtown M-0.75 0 58.08 0.37 Residential, 1
+WALNUT CREEK 92 21 Lacassie Ct 94596 178-080-025-4 AH MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 92 1745 Lacassie Ave 94596 178-080-026-2 AH MFD, Multifamily Downtown M-0.75 0 58.08 0 Residential, 1
+WALNUT CREEK 93 1753 Lacassie Ave 94596 178-080-027-0 MFD, Multifamily Downtown M-0.75 0 58.08 0.23 Residential, 1
+WALNUT CREEK 94 1777 N California Blvd 94596 178-080-072-6 AI MU-D, Mixed Use-Downtown MU-D 0 58.1 1.25 Office
+WALNUT CREEK 94 1777 N California Blvd 94596 178-080-073-4 AI MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Office
+WALNUT CREEK 95 1711 Almond Ave 94596 178-130-017-1 AJ MU-D, Mixed Use-Downtown MU-D 0 58.1 0.37 Office
+WALNUT CREEK 95 1716 Stow Ave 94596 178-130-022-1 AJ MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Residential, 1
+WALNUT CREEK 96 1721 Stow Ave 94596 178-140-004-7 AK MU-D, Mixed Use-Downtown MU-D 0 58.1 0.19 Residential, 1
+WALNUT CREEK 96 Southwest corner of Stow Ave & California Blvd 94596 178-140-007-0 AK MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Vacant
+WALNUT CREEK 97 1222-1250 Pine St 94596 173-110-018-4 MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 1.33 Office
+WALNUT CREEK 98 1201-1299 Parkside Dr 94596 173-110-023-4 AL MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 3.33 Retail Sales
+WALNUT CREEK 98 Southwest corner of Parkside Dr & Civic Dr 94596 173-110-024-2 AL MU-C, Mixed Use-Commercial Emphasis P-D 0 49.78 0 Vacant
+WALNUT CREEK 99 2101 N Main St 94596 174-172-012-0 MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.51 Automotive Uses
+WALNUT CREEK 100 1800-1830 N Broadway 94596 178-340-020-1 MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0.59 Retail Sales
+WALNUT CREEK 101 1300 Civic Dr 94596 178-351-008-2 MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.24 Office
+WALNUT CREEK 102 1700 N Broadway 94596 178-351-016-5 MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.72 Office
+WALNUT CREEK 103 1756-1790 N Broadway 94596 178-351-018-1 MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0.6 Retail Sales
+WALNUT CREEK 104 1251 Arroyo Way 94596 178-352-020-6 MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.6 Retail Sales
+WALNUT CREEK 105 1267 Arroyo Way 94596 178-352-022-2 MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0.49 Office
+WALNUT CREEK 106 1150 Civic Dr 94596 178-402-004-0 AM MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.66 Medical/Dental/Labs
+WALNUT CREEK 106 Northwest of Arroyo Way & Civic Dr 94596 178-412-005-5 AM MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Parking Lot
+WALNUT CREEK 107 675 Ygnacio Valley Rd 94596 178-412-004-8 AN MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 1.54 Office
+WALNUT CREEK 107 635 Ygnacio Valley Rd 94596 178-412-003-0 AN MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0 Retail Sales
+WALNUT CREEK 108 605 Ygnacio Valley Rd 94596 178-412-013-9 MU-C, Mixed Use-Commercial Emphasis MU-C 0 49.78 0.48 Automotive Uses
+WALNUT CREEK 109 N Broadway 94596 178-412-015-4 MU-C, Mixed Use-Residential Emphasis MU-R 0 102.49 0.43 Retail Sales
+WALNUT CREEK 110 2641-2643 Larkey Ln 94597 171-150-001-5 AO SFM, Single-family Medium P-D 0 4.4 3.81 Residential, 1
+WALNUT CREEK 110 Northeast corner of Conejo Way and San Luis Rd 94596 171-150-007-2 AO SFM, Single-family Medium P-D 0 4.4 0 Vacant
+WALNUT CREEK 111 Southwest of Homestead Ave and Seven Hills Ranch Rd 94598 173-042-009-6 SFL, Single-family Low R-20 0 2.2 1.58 Vacant
+WALNUT CREEK 112 Along Bancroft Rd and Walnut Creek (Creek) 94597 147-271-003-5 AP SFM, Single-family Medium R-10 0 4.4 1.62 Vacant
+WALNUT CREEK 112 Along Bancroft Rd and BART Rail 94597 147-271-007-6 AP SFM, Single-family Medium R-10 0 4.4 0 Vacant
+WALNUT CREEK 112 Along Bancroft Rd and BART Rail 94597 147-271-010-0 AP SFM, Single-family Medium R-10 0 4.4 0 Vacant
+WALNUT CREEK 113 730 Minert Rd 94598 145-151-020-8 AQ SFM, Single-family Medium R-10 0 4.4 1.27 Residential, 2
+WALNUT CREEK 113 Southwest of Minert Rd and Arkell Rd 94598 145-151-021-6 AQ SFM, Single-family Medium R-10 0 4.4 0 Vacant
+WALNUT CREEK 114 1679 Carmel Dr 94596 178-290-009-4 MFVH, Multifamily Very High M-1 0 43.56 0.17 Residential, 1
+WALNUT CREEK 115 1654 Carmel Dr 94596 178-290-018-5 AR MFVH, Multifamily Very High M-1 0 43.56 0.33 Residential, 2
+WALNUT CREEK 115 1632 Carmel Dr 94596 178-290-019-3 AR MFVH, Multifamily Very High M-1 0 43.56 0 Residential, 2
+WALNUT CREEK 116 SE of Geary Rd & Coralie Dr 94597 171-032-036-5 SFM, Single-family Medium R-8 0 5.4 0.39 Church
+WALNUT CREEK 117 Jolie Lane 94596 171-091-030-6 SFM, Single-family Medium R-8 0 5.4 0.89 Vacant
+WALNUT CREEK 118 2100 Tice Valley Blvd 94595 186-030-054-8 MFVH, Multifamily Very High P-D 0 0 3.17 Church
+WALNUT CREEK 119 1271 S California Blvd 94596 184-092-034-0 GR, General Retail C-R 0 0 1.3 Retail Sales
+WALNUT CREEK 120 2318 San Juan Ave 94597 174-050-013-5 AS MFL, Multifamily Low D-3 0 14.5 1.18 Residential, 3
+WALNUT CREEK 120 2314 San Juan Ave 94597 174-050-014-3 AS MFL, Multifamily Low D-3 0 14.5 0 Residential, 2
+WALNUT CREEK 121 1204 Alpine Rd 94596 184-050-005-0 AT MU-D, Mixed Use-Downtown MU-D 0 58.1 1.78 Residential, 4
+WALNUT CREEK 121 1148-1152 Alpine Rd 94596 184-050-027-4 AT MU-D, Mixed Use-Downtown MU-D 0 58.1 0 Residential, 57
